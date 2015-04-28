@@ -1,5 +1,5 @@
-A place to submit bug reports for eddy: OBSOLETE
-================================================
+A place to submit bug reports for eddy
+======================================
 
 This used to be a place to submit bug reports for eddy.  However, eddy is
 [open source](https://github.com/eddysystems/eddy) now, so you should use the
